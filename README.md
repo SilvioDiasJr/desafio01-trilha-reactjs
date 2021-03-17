@@ -49,11 +49,11 @@ Principais tecnologias utilizadas no desenvolvimento do projeto:
 
 ```bash
 
-$ git clone https://github.com/SilvioDiasJr/desafio-complementar01-trilha-reactjs.git
+$ git clone https://github.com/SilvioDiasJr/desafio01-trilha-reactjs.git
 
 # entre na pasta do projeto
 
-$ cd desafio-complementar01-trilha-reactjs
+$ cd desafio01-trilha-reactjs
 
 ```
 
@@ -81,17 +81,6 @@ $ npm dev
 
 ```
 
-Rode a api fake
-
-```bash
-
-$ yarn server
-
-# ou, caso use npm
-
-$ npm server
-
-```
 
 ## ⚙️ Como contribuir<a name="contribuicao"></a>
 
